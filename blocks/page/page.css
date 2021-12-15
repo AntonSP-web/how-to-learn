@@ -9,3 +9,17 @@
   font-family: 'Inter', Arial, sans-serif;
   font-weight: normal;
 }
+
+.page__centered {
+  margin: 0 auto;
+}
+
+.page__negative-pos {
+  margin-top: -50px;
+}
+
+.span-accent {
+  line-height: 34px;
+  font-size: 24px;
+  font-weight: 600;
+}
