@@ -7,9 +7,15 @@
   line-height: 51px;
   font-size: 36px;
   font-weight: normal;
+  opacity: 1;
 }
 
 .feyman__link::after {
  content: '\2192';
  padding-left: 5px;
+}
+
+.feyman__link:hover {
+  opacity: .6;
+  transition: opacity .2s ease-in;
 }
