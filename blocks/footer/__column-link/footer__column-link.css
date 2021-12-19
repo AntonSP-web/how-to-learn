@@ -4,15 +4,10 @@
   line-height: 18px;
   font-size: 16px;
   font-weight: normal;
-  margin-bottom: 10px;
   display: flex;
   align-items: center;
   opacity: 1;
   transition: opacity .3s ease-in;
-}
-
-.footer__column-link:last-child {
-  margin-bottom: 0;
 }
 
 .footer__column-link:hover {
