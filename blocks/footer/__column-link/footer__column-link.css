@@ -8,6 +8,7 @@
   display: flex;
   align-items: center;
   opacity: 1;
+  transition: opacity .3s ease-in;
 }
 
 .footer__column-link:last-child {
@@ -16,5 +17,4 @@
 
 .footer__column-link:hover {
   opacity: .6;
-  transition: opacity .2s ease-in;
 }

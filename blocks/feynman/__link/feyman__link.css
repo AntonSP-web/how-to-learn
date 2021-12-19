@@ -8,6 +8,7 @@
   font-size: 36px;
   font-weight: normal;
   opacity: 1;
+  transition: opacity .3s ease-in;
 }
 
 .feyman__link::after {
@@ -17,5 +18,4 @@
 
 .feyman__link:hover {
   opacity: .6;
-  transition: opacity .2s ease-in;
 }

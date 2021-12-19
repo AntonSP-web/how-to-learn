@@ -6,6 +6,7 @@
   font-weight: normal;
   margin-left: 48px;
   opacity: 1;
+  transition: opacity .3s ease-in;
 }
 
 .khan__buy-link::after {
@@ -15,5 +16,4 @@
 
 .khan__buy-link:hover {
   opacity: .6;
-  transition: opacity .2s ease-in;
 }

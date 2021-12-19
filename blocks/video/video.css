@@ -3,4 +3,6 @@
   flex-direction: column;
   align-items: center;
   padding-top: 100px;
+  margin-bottom: -50px; /* нам сказали, что в данном случае можно использовать отрицательный
+                        margin для блока */
 }
